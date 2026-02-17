@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💻 I’m a **Full Stack Developer** passionate about building clean, scalable applications  
 - 🌱 Currently learning **Spring Boot, React, cloud services, and system design**  
 - 🔧 I enjoy working across the **entire stack** — frontend → backend → database → deployment  
-- 🤝 I love collaborating on **web apps, APIs, and real‑world engineering projects**  
+- 🤝 I’m looking to collaborate on **AI/ML, automation, APIs and innovative projects** 
 - 💬 Ask me about **Python, REST APIs, databases, and backend architecture**  
 - 📫 Reach me at **zaina.nadeem@mnsu.edu**  
 - ⚡ Fun fact: I love turning ideas into fully working applications end‑to‑end  
