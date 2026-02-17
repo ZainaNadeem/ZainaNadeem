@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔧 I enjoy working across the **entire stack** — frontend → backend → database → deployment  
 - 🤝 I love collaborating on **web apps, APIs, and real‑world engineering projects**  
 - 💬 Ask me about **Java, Python, REST APIs, databases, and backend architecture**  
-- 📫 Reach me at **zainadeem01@gmail.com**  
+- 📫 Reach me at **zaina.nadeem@mnsu.edu**  
 - ⚡ Fun fact: I love turning ideas into fully working applications end‑to‑end  
 
 ---
