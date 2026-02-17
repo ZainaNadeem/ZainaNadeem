@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🌱 About Me  
-- 💻 I’m a **Full Stack Developer** passionate about building clean, scalable applications  
 - 🌱 Currently learning **Spring Boot, React, cloud services, and system design**  
 - 🔧 I enjoy working across the **entire stack** — frontend → backend → database → deployment  
 - 🤝 I’m looking to collaborate on **AI/ML, automation, APIs and innovative projects** 
