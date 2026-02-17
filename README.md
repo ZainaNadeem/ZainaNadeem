@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Zaina Nadeem</h1>
-<h3 align="center">Full Stack Developer • Software Engineer • CS @ MNSU</h3>
+<h3 align="center">Full Stack Developer • Software Engineer • AI/ML Researcher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZainaNadeem&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
